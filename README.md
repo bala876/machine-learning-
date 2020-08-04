@@ -1,2 +1,2 @@
 # machine-learning
-Linear Regression
+Regression Algorithms
